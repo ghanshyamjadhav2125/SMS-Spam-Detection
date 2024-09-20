@@ -3,14 +3,14 @@
 This project is designed to classify SMS messages as spam or ham (not spam) using machine learning techniques. By leveraging natural language processing (NLP) for feature extraction, various classifiers are trained to achieve high prediction accuracy.
 
 ## 🗂 Table of Contents
-- [Project Overview](#Project Overview)
-- [Technologies Used]
-- [Dataset Information]
-- [Data Processing]
-- [Modeling Approach]
-- [Evaluation and Results]
-- [Usage Guide]
-- [Conclusion and Future Work]
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [Dataset Information](#dataset-information)
+- [Data Processing](#data-processing)
+- [Modeling Approach](#modeling-approach)
+- [Evaluation and Results](#evaluation-and-results)
+- [Usage Guide](#usage-guide)
+- [Conclusion and Future Work](#conclusion-and-future-work)
 
 # 📌 Project Overview
 The objective of this project is to detect spam SMS messages based on their content. The process involves:
